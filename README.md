@@ -1,1 +1,1 @@
-# notas-web-dj-tw
+# (CRUD) PÁGINA WEB DE NOTAS USANDO DJANGO Y TAILWIND CSS
