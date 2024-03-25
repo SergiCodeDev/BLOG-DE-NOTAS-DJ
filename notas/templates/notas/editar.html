@@ -1,0 +1,13 @@
+{% extends "notas/plantillas/p_base.html" %}
+
+{% block title %}Editar nota{% endblock %}
+
+{% block body %}
+
+<form action="" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <button>Guardar</button>
+</form>
+
+{% endblock %}
