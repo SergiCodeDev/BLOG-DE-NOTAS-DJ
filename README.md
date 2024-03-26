@@ -1,6 +1,6 @@
 # (CRUD) PÁGINA WEB DE NOTAS USANDO DJANGO Y TAILWIND CSS
 
-<img src="" alt="main" width="800" />
+<img src="https://github.com/SergiCodeDev/notas-web-dj-tw/blob/main/README/INDEX.png?raw=true" alt="main" width="800" />
 
 ### Como usar:
 - Tener Python
