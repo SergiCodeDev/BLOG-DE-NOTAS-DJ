@@ -2,12 +2,12 @@
 
 <img src="https://github.com/SergiCodeDev/notas-web-dj-tw/blob/main/README/INDEX.png?raw=true" alt="main" width="800" />
 
-### Como usar:
+### Cómo usar:
 - Tener Python
 
 - Instalar requirements.txt (.venv)
 
-- Node.js descargar y hacer la build de Tailwind CSS (Si se hacen cambios...)
+- Descargar Node.js y hacer la build de Tailwind CSS (si se hacen cambios...)
 
 ## Licencia
 El código de este proyecto está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
